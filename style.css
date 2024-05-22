@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+#app {
+    background-color: lightblue;
+}
+
+#game {
+    background-color: lightcoral;
+}
+
+#chatbot {
+    background-color: lightpink;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Caveat;
+}
+
+.head {
+    font-family: Caveat;
+    font-size: 40px;
+}
+
+
